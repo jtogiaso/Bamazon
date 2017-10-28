@@ -1,4 +1,4 @@
-let mysql = require("mysql");
+const  mysql = require('mysql');
 
 module.exports = { 
 	connect_to_db: function(){
